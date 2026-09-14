@@ -1,0 +1,23 @@
+I added this README to address several Things and discuss the future of SCH (Salah-Code-Lab).
+
+Over the next few months, I will be busy focusing on personal matters and won't be able to dedicate as much time. The repositories will not be taken down; however, while they will still be maintained, updates will not be as active as before. I will continue to accept issues, feedback, and support (if the user contacted me via Session).
+
+I won't have enough time to publish mitigations. I was previously expected to publish a mitigation for ShieldCrash, but those plans were canceled.
+
+The main reason is that I couldn't get the exploit to work.
+If anyone knows how to get it running, please let me know.
+During my testing across Windows versions 21H2, 24H2, and 25H2, it consistently failed to execute.
+I didn't just run a single instance and Pray; I ran multiple instances simultaneously and retested it over ten different times.
+I also compiled the code myself rather than relying on the precompiled executable, but it still didn't work.
+As a result, the vulnerability was unachievable in my environment. Even after testing it under specific conditions for days on end, it remained non functional.
+Because of this, I cannot tell if my mitigation actually works, and I prefer not to stand/stay on assumptions a lesson I learned the hard way.
+
+Regarding the YouTube channel: I know I previously mentioned working on a new video, and I was, but I struggled to figure out how to present the ideas effectively. After all, I am neither a content creator nor a video editor.
+
+As for when I will return, I honestly do not know. do not wait for or expect a specific return date.
+
+But as for now SCH Will stay online and accept Critics, issues, support, but will be less active and more Focused on the Projects owned by myself only
+
+Until i come back, 
+
+Farewell.
